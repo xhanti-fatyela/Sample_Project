@@ -98,7 +98,7 @@ button {
 }
 
 .card:hover {
-    transform: translate(-15px);
+    transform: translateY(-15px);
 }
 
 h5 {
